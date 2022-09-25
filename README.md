@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwapnilDeveloper
 - 👀 I’m interested in React, JavaScript and Python programming.
-- 🌱 I’m currently learning JavaScript and Python.
+- 🌱 I’m currently learning React, JavaScript and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - you can reach me at @swapniljoshi@gmx.com
 
